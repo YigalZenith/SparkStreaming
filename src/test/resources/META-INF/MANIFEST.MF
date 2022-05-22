@@ -1,0 +1,5 @@
+Manifest-Version: 1.1
+Class-Path: org/scala-lang/scala-library-2.11.9.jar
+Build-Jdk-Spec: 1.7
+Created-By: Maven Archiver 3.6.0
+Main-Class: LoggerGenerator
